@@ -2,7 +2,7 @@
 
 <div align="center">
 
-###  SOFTWARE DEVELOPER | AIMl ENGINEER | DATA ANALYST | Python & C++
+###  SOFTWARE DEVELOPER | AIML ENGINEER | DATA ANALYST | Python & C++
 
 *CS student at MIET, Meerut — building systems that don't just "chat," they **act**.*
 
