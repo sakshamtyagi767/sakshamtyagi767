@@ -124,11 +124,16 @@ A CLI-based student management system built to demonstrate practical C++ softwar
 
 ---
 
-## 📚 Currently Learning
+## 🤝 Let's Connect
 
-```text
-DSA ──────────────── █████████░
-Machine Learning ─── ████████░░
-Backend Development  ███████░░░
-AI / LLM Systems ─── ███████░░░
-System Design ─────── █████░░░░░
+I'm always open to connecting with fellow developers, recruiters, and people interested in AI, ML, data, and software engineering.
+
+💼 **LinkedIn:** [Saksham Tyagi](https://in.linkedin.com/in/saksham-tyagi-672866281)  
+🐙 **GitHub:** [@sakshamtyagi767](https://github.com/sakshamtyagi767)  
+📧 **Email:** [sakshamtyagi767@gmail.com](mailto:sakshamtyagi767@gmail.com)
+
+---
+
+### ⭐ Thanks for stopping by!
+
+*Building things. Breaking things. Understanding why they broke. Building them better.*
