@@ -2,7 +2,7 @@
 
 <div align="center">
 
-###  SOFTWARE DEVELOPER | AI Developer | Agentic Workflows | Python & C++
+###  SOFTWARE DEVELOPER | AIMl #ngineer | Data Analyst | Python & C++
 
 *3rd-year CS student at MIET, Meerut — building systems that don't just "chat," they **act**.*
 
