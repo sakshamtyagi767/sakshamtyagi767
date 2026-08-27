@@ -1,118 +1,24 @@
-# 👋 Hi, I'm Saksham Tyagi
-
-<div align="center">
-
-###  SOFTWARE DEVELOPER | AIML ENGINEER | DATA ANALYST | Python & C++
-
-*CS student at MIET, Meerut — building systems that don't just "chat," they **act**.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamtyagi767)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshamtyagi767)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamtyagi767@gmail.com)
-
-</div>
-
----
+# Hi there! 👋 I'm Saksham Tyagi
+### AI/ML Engineer & Data Analyst[span_2](start_span)[span_2](end_span)
 
 ## 🚀 About Me
-
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at MIET (Expected 2026)
-- 🤖 Focused on **Agentic AI Workflows** and **LLM Orchestration** — using AI to automate real tasks, not just answer questions
-- 🛠️ Currently building autonomous pipelines with **n8n**, **Google Gemini API**, and **Python**
-- 📈 Strong foundation in **DSA**, **Operating Systems**, **DBMS**, and **Concurrent Programming**
-- 💡 I believe the future of software is systems that *decide and act* on their own
-
----
+- 🎓 Computer Science undergraduate specializing in AI/ML, building end-to-end machine learning and data analytics pipelines[span_3](start_span)[span_3](end_span).
+- 🏫 Currently pursuing a B.Tech in CSE (AI/ML) at Meerut Institute of Engineering and Technology, expected to graduate in May 2027[span_4](start_span)[span_4](end_span).
+- 💡 Passionate about practical problem-solving through statistical modeling, REST API integration, and workflow automation[span_5](start_span)[span_5](end_span).
 
 ## 🛠️ Tech Stack
+- **Languages:** Python, C++, C, SQL[span_6](start_span)[span_6](end_span)
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, EDA, RFM Analysis, Regression, Classification[span_7](start_span)[span_7](end_span)
+- **Backend & Automation:** FastAPI, REST APIs, LangChain, LangGraph, n8n[span_8](start_span)[span_8](end_span)
+- **Databases & DevOps:** MySQL, MongoDB, Redis, Docker, Git, AWS (EC2, S3)[span_9](start_span)[span_9](end_span)
+- **Testing & Async:** pytest, AsyncIO[span_10](start_span)[span_10](end_span)
 
-**Languages**
+## 🔥 Featured Projects
+- **[Automated Email Processing Pipeline](https://github.com/sakshamtyagi767/n8n-ai-email-auto-responder):** Engineered a trigger-based automated email classification and response pipeline integrating the Gmail API and LangChain via n8n[span_11](start_span)[span_11](end_span). Implemented workflow controls using wait nodes and batch processing to ensure strict sequential execution[span_12](start_span)[span_12](end_span).
+- **[Retail Customer Analytics Dashboard](https://github.com/sakshamtyagi767):** Built an RFM segmentation dashboard with Pandas and Streamlit using a 96K+ customer dataset to identify high-value cohorts[span_13](start_span)[span_13](end_span).
+- **[Market Pulse Financial Analytics Dashboard](https://github.com/sakshamtyagi767/marketpulse):** Developed a concurrent multi-asset data fetching engine with Python AsyncIO, executing statistical analysis and portfolio visualizations[span_14](start_span)[span_14](end_span).
+- **[System Performance Monitor & Analyzer](https://github.com/sakshamtyagi767/AI-performance-tracker):** Created a Python CLI tool using psutil to capture and format real-time system metrics, validated by 21 pytest unit tests ensuring data types and range constraints[span_15](start_span)[span_15](end_span).
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI & Automation**
-
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Agentic](https://img.shields.io/badge/Agentic%20Workflows-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Libraries & Frameworks**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-EA4335?style=flat-square&logo=gemini&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
----
-
-## 🏆 Featured Projects
-
-### 🤖 [n8n AI Email Auto-Responder](https://github.com/sakshamtyagi767/n8n-ai-email-auto-responder)
-> *n8n · Gmail API · Google Gemini API · Workflow Automation*
-
-A fully autonomous email management pipeline built in n8n. Incoming emails are filtered, classified by Gemini AI, and automatically handled — job emails get a smart AI-written reply, spam gets silently marked as read. Zero manual intervention.
-
-**Key highlights:**
-- IF node filters self-sent emails; SplitInBatches ensures one-at-a-time processing
-- Gemini AI classifies email intent and generates context-aware replies
-- End-to-end agentic workflow — trigger → classify → act
-
----
-
-### 📊 [AI System Performance Tracker](https://github.com/sakshamtyagi767/AI-performance-tracker)
-> *Python · psutil · Google Gemini API · Rich · pytest*
-
-CLI tool that captures real-time system metrics (CPU, RAM, Disk, top 10 processes) and sends them as structured JSON to Gemini AI for intelligent optimization advice with severity scoring.
-
-**Key highlights:**
-- 3-layer JSON fallback parsing for robust AI response handling
-- Secure API key management via `.env` + `.gitignore`
-- 21 pytest unit tests covering type validation and JSON serializability
-
----
-
-### 💹 [MarketPulse — Financial Analytics Dashboard](https://github.com/sakshamtyagi767/marketpulse)
-> *Python · Pandas · AsyncIO · NumPy · Matplotlib · REST APIs*
-
-Financial analytics tool with concurrent data fetching, statistical analysis (moving averages, volatility, correlation), and multi-panel visualisations. Built with clean architecture separating fetch/processing/visualisation layers.
-
----
-
-### 🎓 [Student Record System](https://github.com/sakshamtyagi767/student-record-system-cpp)
-> *C++ · OOP · STL · File I/O · Exception Handling*
-
-Console-based CRUD application in C++ for managing student academic records. Demonstrates core OOP principles, STL containers, file persistence, and structured exception handling.
-
----
-
-## 📜 Certifications
-
-- 🏅 **Anthropic AI Certificate** — Foundations of AI & Large Language Models
-
----
-
-## 📫 Connect With Me
-
-| Platform | Link |
-|---|---|
-| LinkedIn | [linkedin.com/in/sakshamtyagi767](https://linkedin.com/in/sakshamtyagi767) |
-| Email | sakshamtyagi767@gmail.com |
-| GitHub | [github.com/sakshamtyagi767](https://github.com/sakshamtyagi767) |
-
----
-
-<div align="center">
-  <i>"The goal isn't to build AI that talks. It's to build AI that does."</i>
-</div>
+## 📫 Connect with Me
+- **LinkedIn:** [sakshamtyagi767](https://linkedin.com/in/sakshamtyagi767)[span_16](start_span)[span_16](end_span)
+- **Email:** sakshamtyagi767@gmail.com[span_17](start_span)[span_17](end_span)
